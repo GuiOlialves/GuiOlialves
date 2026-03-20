@@ -1,41 +1,71 @@
-# hey, eu sou o Gui 👾
+# gui.exe 👾
+### full-stack dev · são paulo · sempre debugando algo às 23h
 
-```javascript
-const gui = {
-  stack:    ["JavaScript", "TypeScript", "React", "Node.js", "MongoDB"],
-  studying: ["Sistemas de Informação @ Senac", "Computação Quântica"],
-  building: "um sistema real pro estúdio onde trabalho como editor de vídeo",
-  looking:  "primeiro estágio em dev web 👀",
-  fun_fact: "comecei a programar antes de entrar em qualquer curso técnico"
-}
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+não vim de bootcamp.  
+não vim de faculdade ainda.  
+comecei sozinho em 2022, com vídeos no youtube e muita teimosia.
+
+hoje tenho um TCC no portfólio que é um sistema real —  
+agenda, estoque, dashboard financeiro, autenticação.  
+não é um to-do list. nunca foi.
+
+atualmente: cursando **Sistemas de Informação** no Senac  
+e estudando **computação quântica** porque por que não?
+
+> *"o melhor jeito de aprender é construindo algo que alguém vai usar de verdade"*
+
+---
+
+### 🧠 stack atual
+
+```bash
+$ gui --stack
+
+  frontend  →  React · Next.js · Tailwind CSS · TypeScript
+  backend   →  Node.js · Express
+  database  →  MongoDB · MySQL
+  tools     →  Git · GitHub · VSCode
+  learning  →  Qiskit (IBM Quantum) 🔬
 ```
 
 ---
 
-## o que eu já construí
+### 🛠️ o que eu construí
 
-**🐾 VetControl** — sistema completo de gestão para clínicas veterinárias  
-agenda dinâmica · estoque · dashboard financeiro · prontuários  
-`Node.js` `Express` `MongoDB` `EJS` → [ver projeto](https://github.com/GuiOlialves/TCC2)
-
-**🌐 Portfólio** — feito do zero, no ar  
-`HTML` `CSS` `JavaScript` → [ver ao vivo](https://guiolialves.netlify.app)
+```
+📁 projetos/
+├── 🐾 VetControl ············ sistema de gestão p/ clínica veterinária
+│        agenda kanban · prontuários · estoque · BI dashboard
+│        Node.js + Express + MongoDB + EJS
+│        → github.com/GuiOlialves/TCC2
+│
+├── 🌐 Portfólio ············· feito do zero, no ar
+│        HTML + CSS + JS
+│        → guiolialves.netlify.app
+│
+└── 🚧 em construção ········· sistema p/ estúdio de vídeo (em breve)
+```
 
 ---
 
-## linguagens & ferramentas
+### ⚡ tecnologias
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0f?style=for-the-badge&logo=javascript&logoColor=a855f7)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0f?style=for-the-badge&logo=typescript&logoColor=a855f7)
 ![React](https://img.shields.io/badge/React-0a0a0f?style=for-the-badge&logo=react&logoColor=a855f7)
+![Next.js](https://img.shields.io/badge/Next.js-0a0a0f?style=for-the-badge&logo=next.js&logoColor=a855f7)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0a0a0f?style=for-the-badge&logo=tailwind-css&logoColor=a855f7)
 ![Node.js](https://img.shields.io/badge/Node.js-0a0a0f?style=for-the-badge&logo=node.js&logoColor=a855f7)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0f?style=for-the-badge&logo=mongodb&logoColor=a855f7)
+![MySQL](https://img.shields.io/badge/MySQL-0a0a0f?style=for-the-badge&logo=mysql&logoColor=a855f7)
 ![Python](https://img.shields.io/badge/Python-0a0a0f?style=for-the-badge&logo=python&logoColor=a855f7)
 ![Git](https://img.shields.io/badge/Git-0a0a0f?style=for-the-badge&logo=git&logoColor=a855f7)
 
 ---
 
-## stats
+### 📊 stats
 
 <div align="center">
 
@@ -49,14 +79,16 @@ agenda dinâmica · estoque · dashboard financeiro · prontuários
 
 ---
 
-## onde me achar
+### 📡 me acha aqui
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=a855f7)](https://linkedin.com/in/guilherme-oliveira-alves-)
 [![Portfólio](https://img.shields.io/badge/Portfólio-0a0a0f?style=for-the-badge&logo=firefox&logoColor=a855f7)](https://guiolialves.netlify.app)
-[![Gmail](https://img.shields.io/badge/Email-0a0a0f?style=for-the-badge&logo=gmail&logoColor=a855f7)](mailto:gui.olialves2@gmail.com)
-
----
+[![Gmail](https://img.shields.io/badge/gui.olialves2@gmail.com-0a0a0f?style=for-the-badge&logo=gmail&logoColor=a855f7)](mailto:gui.olialves2@gmail.com)
 
 <div align="center">
+  <sub>
+    aberto pra estágio · aberto pra freela · fechado pra bugs (mentira, bugs entram sempre)
+  </sub>
+  <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=GuiOlialves&style=for-the-badge&color=3b0764&labelColor=0a0a0f&label=visitas" />
 </div>
