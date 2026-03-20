@@ -1,15 +1,7 @@
-# gui.exe 👾
+# Ola, eu sou o Guilherme 👾
 ### full-stack dev · são paulo · sempre debugando algo às 23h
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-não vim de bootcamp.  
-não vim de faculdade ainda.  
-comecei sozinho em 2022, com vídeos no youtube e muita teimosia.
-
-hoje tenho um TCC no portfólio que é um sistema real —  
-agenda, estoque, dashboard financeiro, autenticação.  
-não é um to-do list. nunca foi.
 
 atualmente: cursando **Sistemas de Informação** no Senac  
 e estudando **computação quântica** porque por que não?
@@ -18,35 +10,26 @@ e estudando **computação quântica** porque por que não?
 
 ---
 
-### 🧠 stack atual
-
-```bash
-$ gui --stack
-
-  frontend  →  React · Next.js · Tailwind CSS · TypeScript
-  backend   →  Node.js · Express
-  database  →  MongoDB · MySQL
-  tools     →  Git · GitHub · VSCode
-  learning  →  Qiskit (IBM Quantum) 🔬
+```javascript
+const gui = {
+  stack:    ["JavaScript", "TypeScript", "React", "Node.js", "MongoDB"],
+  studying: ["Sistemas de Informação @ Senac", "Computação Quântica"],
+  building: "um sistema real pro estúdio onde trabalho como editor de vídeo",
+  looking:  "primeiro estágio em dev web 👀",
+  fun_fact: "comecei a programar antes de entrar em qualquer curso técnico"
+}
 ```
 
 ---
 
-### 🛠️ o que eu construí
+## o que eu já construí
 
-```
-📁 projetos/
-├── 🐾 VetControl ············ sistema de gestão p/ clínica veterinária
-│        agenda kanban · prontuários · estoque · BI dashboard
-│        Node.js + Express + MongoDB + EJS
-│        → github.com/GuiOlialves/TCC2
-│
-├── 🌐 Portfólio ············· feito do zero, no ar
-│        HTML + CSS + JS
-│        → guiolialves.netlify.app
-│
-└── 🚧 em construção ········· sistema p/ estúdio de vídeo (em breve)
-```
+**🐾 VetControl** — sistema completo de gestão para clínicas veterinárias  
+agenda dinâmica · estoque · dashboard financeiro · prontuários  
+`Node.js` `Express` `MongoDB` `EJS` → [ver projeto](https://github.com/GuiOlialves/TCC2)
+
+**🌐 Portfólio** — feito do zero, no ar  
+`HTML` `CSS` `JavaScript` → [ver ao vivo](https://guiolialves.netlify.app)
 
 ---
 
