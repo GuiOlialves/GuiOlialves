@@ -1,10 +1,10 @@
 # Ola, eu sou o Guilherme 👾
-### full-stack dev · são paulo · sempre debugando algo às 23h
+### full-stack dev · são paulo · sempre fazendo algo
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 atualmente: cursando **Sistemas de Informação** no Senac  
-e estudando **computação quântica** porque por que não?
+me formei na ETEC Irmã Agostina em DS
 
 > *"o melhor jeito de aprender é construindo algo que alguém vai usar de verdade"*
 
