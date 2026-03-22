@@ -16,7 +16,7 @@ const gui = {
   studying: ["Sistemas de Informação @ Senac", "Computação Quântica"],
   building: "um sistema real pro estúdio onde trabalho como editor de vídeo",
   looking:  "primeiro estágio em dev web 👀",
-  fun_fact: "comecei a programar antes de entrar em qualquer curso técnico"
+  fun_fact: "comecei a programar fazendo jogos"
 }
 ```
 
