@@ -119,21 +119,38 @@ guilherme = {
 
 <div align="center">
 
-### ⚔️ level
+<img
+  src="https://gh-stats-xcards.fly.dev/stats/GuiOlialves?card=level&theme=dark&bg_color=0a0a0f&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7&border_color=3b0764&accent_color=c084fc"
+  alt="GitHub Level"
+/>
 
-<img src="https://gh-stats-xcards.vercel.app/api?username=GuiOlialves&card=level" />
+<img
+  src="https://gh-stats-xcards.fly.dev/stats/GuiOlialves?card=top-languages&theme=dark&bg_color=0a0a0f&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7&border_color=3b0764&accent_color=c084fc"
+  alt="Top Languages"
+/>
 
-<br/>
+</div>
 
-### 🔥 sequência de contribuições
+---
 
-<img src="https://streak-stats.demolab.com?user=GuiOlialves&theme=transparent&background=0a0a0f&border=3b0764&stroke=3b0764&ring=a855f7&fire=c084fc&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=a855f7&sideLabels=a855f7&dates=6b7280" />
+## 🐍 contribuições
 
-<br/>
+<div align="center">
 
-### 📈 atividade
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GuiOlialves&bg_color=0a0a0f&color=a855f7&line=a855f7&point=c084fc&area=true&hide_border=false&border_color=3b0764" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/GuiOlialves/GuiOlialves/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/GuiOlialves/GuiOlialves/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/GuiOlialves/GuiOlialves/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
 
