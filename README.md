@@ -12,7 +12,7 @@
   <a href="https://linkedin.com/in/guilherme-oliveira-alves-">
     <img src="https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=a855f7" />
   </a>
-  <a href="https://guiolialves.netlify.app">
+  <a href="https://guilhermeolialves.netlify.app">
     <img src="https://img.shields.io/badge/Portfólio-0a0a0f?style=for-the-badge&logo=firefox&logoColor=a855f7" />
   </a>
 </p>
@@ -57,13 +57,13 @@ Sistema de gestão desenvolvido para clínicas veterinárias.
 
 ---
 
-### 🌐 [Portfólio](https://guiolialves.netlify.app)
+### 🌐 [Portfólio](https://guilhermeolialves.netlify.app)
 
 Meu portfólio pessoal, desenvolvido do zero para reunir meus projetos, experiências e evolução na área de tecnologia.
 
 `HTML` `CSS` `JavaScript`
 
-**→ [acessar portfólio](https://guiolialves.netlify.app)**
+**→ [acessar portfólio](https://guilhermeolialves.netlify.app)**
 
 ---
 
@@ -93,19 +93,21 @@ Meu portfólio pessoal, desenvolvido do zero para reunir meus projetos, experiê
 
 ---
 
-## 📊 GitHub
+## 🧩 atualmente
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GuiOlialves&show_icons=true&theme=transparent&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7&bg_color=0a0a0f&border_color=3b0764&hide=stars&count_private=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiOlialves&layout=compact&theme=transparent&title_color=a855f7&text_color=e2e8f0&bg_color=0a0a0f&border_color=3b0764&langs_count=6&hide=ejs" />
-
-</div>
+```python
+guilherme = {
+    "foco": ["Python", "Dados", "Automação", "Desenvolvimento"],
+    "estudando": "Sistemas de Informação @ Senac",
+    "construindo": "projetos que resolvam problemas reais",
+    "objetivo": "primeira oportunidade profissional em tecnologia",
+    "curiosidade": "comecei na programação criando jogos 🎮"
+}
+```
 
 ---
 
-## 📡 contato
+## 📡 vamos conversar?
 
 <p align="center">
 
@@ -117,7 +119,7 @@ Meu portfólio pessoal, desenvolvido do zero para reunir meus projetos, experiê
   <img src="https://img.shields.io/badge/Gmail-0a0a0f?style=for-the-badge&logo=gmail&logoColor=a855f7" />
 </a>
 
-<a href="https://guiolialves.netlify.app">
+<a href="https://guilhermeolialves.netlify.app">
   <img src="https://img.shields.io/badge/Portfólio-0a0a0f?style=for-the-badge&logo=firefox&logoColor=a855f7" />
 </a>
 
