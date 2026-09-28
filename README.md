@@ -33,7 +33,6 @@
 
 🚀 Buscando minha primeira oportunidade de **estágio em tecnologia**, principalmente em **Dados, BI, Analytics e Desenvolvimento**
 
-🎮 Comecei a programar criando jogos — e desde então sempre preciso estar construindo alguma coisa
 
 <br clear="right"/>
 
@@ -97,13 +96,46 @@ Meu portfólio pessoal, desenvolvido do zero para reunir meus projetos, experiê
 
 ```python
 guilherme = {
-    "foco": ["Python", "Dados", "Automação", "Desenvolvimento"],
+    "foco": [
+        "Python",
+        "Dados",
+        "Automação",
+        "Desenvolvimento"
+    ],
+
     "estudando": "Sistemas de Informação @ Senac",
+
     "construindo": "projetos que resolvam problemas reais",
+
     "objetivo": "primeira oportunidade profissional em tecnologia",
-    "curiosidade": "comecei na programação criando jogos 🎮"
+
+    
 }
 ```
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+### ⚔️ level
+
+<img src="https://gh-stats-xcards.vercel.app/api?username=GuiOlialves&card=level" />
+
+<br/>
+
+### 🔥 sequência de contribuições
+
+<img src="https://streak-stats.demolab.com?user=GuiOlialves&theme=transparent&background=0a0a0f&border=3b0764&stroke=3b0764&ring=a855f7&fire=c084fc&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=a855f7&sideLabels=a855f7&dates=6b7280" />
+
+<br/>
+
+### 📈 atividade
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GuiOlialves&bg_color=0a0a0f&color=a855f7&line=a855f7&point=c084fc&area=true&hide_border=false&border_color=3b0764" />
+
+</div>
 
 ---
 
@@ -128,7 +160,7 @@ guilherme = {
 <div align="center">
 
 <sub>
-aberto para estágio · projetos · ideias interessantes · e aparentemente bugs também
+aberto para estágio · projetos · ideias  
 </sub>
 
 <br/><br/>
