@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Guilherme 👾</h1>
 
 <p align="center">
-  <strong>Desenvolvimento de Software · Dados · Python · Automação</strong>
+  <strong> Data Science · Dados · Python · Automação</strong>
 </p>
 
 <p align="center">
