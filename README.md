@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Guilherme👾 </h1>
+<h1 align="center">Olá, eu sou o Guilherme </h1>
 
 <p align="center">
   <strong> Data Science · Dados · Python · Automação</strong>
